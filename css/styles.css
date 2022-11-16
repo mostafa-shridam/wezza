@@ -2,12 +2,10 @@ body {
     margin: 0;
    text-align: center;
    background-color: beige;
-   font-family: 'Gluten', cursive;
   }
   
 h1 {
     color: #5b3c3c;
-  font-family: 'PT Serif', serif;
   font-size: 2.5rem;
   padding-bottom: 20px;
 
@@ -16,6 +14,10 @@ pre {
     color :rgb(44, 42, 44);
     font-size: 2.6rem;
 }
+p {
+  font-size: 3.5rem;
+}
+
 a {
     color: #778899;
     margin: 10px 20px;
